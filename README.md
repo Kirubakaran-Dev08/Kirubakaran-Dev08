@@ -2,16 +2,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:1F5FBF&height=190&section=header&text=Kirubakaran%20H&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20React%20Native&descSize=18&descAlignY=58" alt="Kirubakaran H - Frontend Developer" />
 
-<a href="https://github.com/FIREJADDU-08">
+<a href="https://github.com/Kirubakaran-Dev08">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=1F5FBF&center=true&vCenter=true&width=640&lines=Frontend+Developer+%7C+React.js+%26+React+Native;Building+Production+Web+and+Mobile+Apps;Expanding+into+Full+Stack+with+the+MERN+Stack" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F5FBF?style=for-the-badge&logo=vercel&logoColor=white)](https://hkirubakarandeveloper08.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakarandeveloper08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakaran-h/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirubajadu08@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/FIREJADDU-08?label=Followers&style=for-the-badge&logo=github&color=1F3864)](https://github.com/FIREJADDU-08?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Kirubakaran-Dev08?label=Followers&style=for-the-badge&logo=github&color=1F3864)](https://github.com/Kirubakaran-Dev08?tab=followers)
 
 </div>
 
@@ -182,12 +182,14 @@ Full stack MERN platform for managing farms, employees, and daily operations. I'
 </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FIREJADDU-08&show_icons=true&hide_border=true&title_color=1F5FBF&icon_color=1F5FBF&theme=default" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIREJADDU-08&layout=compact&hide_border=true&title_color=1F5FBF&theme=default" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kirubakaran-Dev08&show_icons=true&hide_border=true&title_color=1F5FBF&icon_color=1F5FBF&theme=default" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirubakaran-Dev08&layout=compact&hide_border=true&title_color=1F5FBF&theme=default" alt="Top Languages" />
 
 </div>
 
@@ -210,7 +212,7 @@ Full stack MERN platform for managing farms, employees, and daily operations. I'
 I'm open to **Frontend** and **Junior Full Stack Developer** opportunities.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Kirubajadu08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakarandeveloper08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirubakaran-h/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F5FBF?style=for-the-badge&logo=vercel&logoColor=white)](https://hkirubakarandeveloper08.vercel.app/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5FBF,100:1F3864&height=100&section=footer" alt="" />
