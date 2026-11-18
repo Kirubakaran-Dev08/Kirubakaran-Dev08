@@ -184,16 +184,6 @@ Full stack MERN platform for managing farms, employees, and daily operations. I'
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Kirubakaran-Dev08&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&line_height=24&card_width=500&title_color=1F5FBF&icon_color=1F5FBF&text_color=24292f&bg_color=00000000&custom_title=Kirubakaran%20H%27s%20GitHub%20Stats" alt="Kirubakaran H's GitHub Stats" />
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 ![Node.js](https://img.shields.io/badge/Node.js_&_Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
